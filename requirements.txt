@@ -3,7 +3,7 @@ Flask-Compress
 Flask-Cors 
 Jinja2 
 gunicorn
-PIL
+Pillow
 numpy
 tensorflow
 tensorflow_hub
